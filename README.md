@@ -1,9 +1,16 @@
 ## Data Access Object (DAO):
-1. ### LoginDAO.java & LoginTDao.java
-   - This Java class, LoginDao, provides data access methods for a Spring-based application using Hibernate ORM for user authentication and related functionalities.
-2. ### SaveDao.java & SaveTDao.java
-   - The `SaveDao` or `SaveTDao` class in Java is a Data Access Object (DAO) implementing database operations for student/teacher registration and profile updates.
-  
+1. ### LoginDAO.java 
+   - This Java class, LoginDao, provides data access methods for a Spring-based application using Hibernate ORM for student login authentication and related functionalities.
+
+2. ### LoginTDao.java
+   - This Java class, LoginTDao, provides data access methods for a Spring-based application using Hibernate ORM for teacher login authentication and related functionalities.
+     
+3. ### SaveDao.java
+   - The SaveDao class in Java is a Data Access Object (DAO) implementing database operations for student registration and profile updates.
+     
+4. ### SaveTDao.java
+   - The SaveTDao class in Java is a Data Access Object (DAO) implementing database operations for teacher registration and profile updates.
+       
 ## Data Transfer Object (DTO):
 1. ### RegistrationDto.java
   - This Java class, "RegistrationDto," represents a Data Transfer Object with fields for student registration information, including personal details and dates.
