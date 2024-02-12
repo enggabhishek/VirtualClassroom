@@ -1,5 +1,5 @@
-# <center> Virtual Classroom: </center>
-
+# <center> Virtual Classroom </center>
+In the dynamic landscape of education and technology, the integration of virtual classrooms has become increasingly pivotal, offering a flexible and accessible learning environment. Our Virtual Classroom project is a comprehensive and robust solution developed using cutting-edge technologies such as JAVA, J2EE, HTML, JSP, MySQL, Hibernate, and Spring. This project not only facilitates seamless student-teacher interactions but also incorporates various features for user registration, login, file handling, and friend requests.
 
 ## Data Access Object (DAO):
 1. ### LoginDAO.java 
