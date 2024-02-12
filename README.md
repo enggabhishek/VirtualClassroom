@@ -29,3 +29,30 @@
      
 7. ### Teacher.java
    - This Java class defines a Data Transfer Object (DTO) for a teacher with fields representing personal information and methods for setting/getting them.
+     
+## Service:
+1. ### LoginService.java
+   - This Java class implements various methods for user registration, login, friend requests, image handling, and data validation.
+     
+## Util:
+1. ### Encryption.java
+   - The Java class "Encryption" provides a method to hash byte arrays using SHA-256 algorithm for secure password storage.
+
+## Controller:
+1. ### enggabhishek/VirtualClassroom/src/main/java/com/abhi/project/DecisionController.java
+   - This Java class is a Spring MVC controller for handling decision-related requests, utilizing a 'LoginService' class for processing and managing session scope.
+     
+2. ### enggabhishek/VirtualClassroom/src/main/java/com/abhi/project/DisplayImage.java
+   - This Java class is a Spring MVC controller that serves an image file in response to an HTTP GET request.
+     
+4. ### enggabhishek/VirtualClassroom/src/main/java/com/abhi/project/FileController.java
+   - This Java class is a Spring MVC controller handling file uploads, validating them, and saving to a specified location.
+
+6. ### enggabhishek/VirtualClassroom/src/main/java/com/abhi/project/FileValidator.java
+   - This Java class is a Spring Validator for UploadedFile, ensuring a non-empty file is selected during form submission.
+
+8. 
+9. fgfg
+10. g
+11. 
+12. 
